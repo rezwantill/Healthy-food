@@ -1,0 +1,16 @@
+.container{
+    border: px solid;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 5px;
+    gap: 15px;
+   
+}
+.food{
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 5px;
+}
+.food img{
+    width: 100%;
+}
